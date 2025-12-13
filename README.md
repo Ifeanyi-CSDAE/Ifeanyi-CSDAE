@@ -1,14 +1,12 @@
-- Hi, michael-ifeanyichukwu here,
-- 👀 I Am a tech enthusiaste,
-- 🌱 I am currently learning programming (c++, rust, MATLAB, tensorflow),
-- 💞️ I am looking forward to collaborating with you on any tech related researches and also programming projects. 
-- 📫 you can reach me, on the following handles: 
-- twitter @ifeany_obidike,
-- instagram @themikeifeanyichukwu,
-- https://www.linkedin.com/in/ifeanyichukwu-obidike-532200199/
-- I am looking forward to working with you :-).
+### Hi, I'm Ifeanyi 👋
 
-<!---
-michael-ifeanyichukwu/michael-ifeanyichukwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A Control System Design & Automation Engineer (CSDAE) with a passion for transforming theoretical models into deployable embedded solutions.
+
+- 💡 Specialized in: Model Based Design, Real Time Control Systems, and C/C++ Code Generation from MATLAB/Simulink.
+- 🚀 Currently focused on: Developing robust, low latency control logic for medical technology systems (e.g., Adaptive Gait Analysis and Intelligent Automation).
+- ⚙️ Core Expertise: Controls, Drive Systems, and bridging biological and artificial control mechanisms.
+- 🌐 Open to: Collaborations, discussions, and opportunities in advanced Control Systems and AI Integration.
+
+---
+
+[LinkedIn Profile: https://www.linkedin.com/in/ifeanyichukwu-obidike-532200199/ ] | [Email Address: ifeanyiobidike60@gmail.com ]
