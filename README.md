@@ -4,7 +4,7 @@ A Control System Design & Automation Engineer (CSDAE) with a passion for transfo
 
 - 💡 **Specialized in:** Model Based Design, Real Time Control Systems, C/C++, and MATLAB/Simulink.
 - 🚀 **Currently focused on:** Developing robust, low latency control logic for medical technology systems and financial technology systems.
-- ⚙️ **Core Expertise:** Controls, Drive Systems, and bridging biological and artificial control mechanisms.
+- ⚙️ **Core Expertise:** Control Systems, model based design, MATLAB/Simulink.
 - 🌐 **Open to:** Collaborations, discussions, and opportunities in advanced Control Systems and AI Integration.
 
 ---
