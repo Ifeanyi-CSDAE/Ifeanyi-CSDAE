@@ -1,11 +1,12 @@
 ### Hi, I'm Ifeanyi 👋
 
-A Control System Design & Automation Engineer (CSDAE) with a passion for transforming theoretical models into deployable embedded solutions.
+A Medical Device & Control Systems Engineer building production-ready algorithm IP for embedded medical and fintech applications.
 
-- 💡 **Specialized in:** Model Based Design, Real Time Control Systems, C/C++, and MATLAB/Simulink.
-- 🚀 **Currently focused on:** Developing robust, low latency control logic for medical technology systems and financial technology systems.
-- 🌐 **Open to:** Collaborations, discussions, and opportunities in advanced Control Systems and AI Integration.
+- 💡 **Specialized in:** Model-Based Design (MATLAB/Simulink), Embedded C++, Real-Time Control Systems, and Signal Processing
+- 🏥 **MedTech focus:** Biosignal processing algorithms, wearable & assistive medical technology.
+- 🌐 **Open to:** Technical collaborations and discussions in medical device software, embedded systems, and control engineering
 
 ---
 
-[LinkedIn Profile: https://www.linkedin.com/in/ifeanyichukwu-obidike-532200199/ ] | [Email Address: ifeanyiobidike60@gmail.com ]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ifeanyichukwu-obidike-532200199/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ifeanyiobidike60@gmail.com)
