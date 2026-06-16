@@ -1,6 +1,6 @@
 ### Hi, I'm Ifeanyi 👋
 
-A Medical Device & Control Systems Engineer building production ready algorithm IP for embedded medical technology applications.
+A Medical Device Algorithm & Control Systems Engineer building production ready algorithm IP for embedded medical technology applications.
 
 - 💡 **Specialized in:** Model-Based Design (MATLAB/Simulink), Embedded C++, Intelligent Control Systems, and Signal Processing
 - 🏥 **MedTech focus:** Biosignal algorithms for patient monitoring systems and real-time embedded control for assistive/rehabilitation devices
